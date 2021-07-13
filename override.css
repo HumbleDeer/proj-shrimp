@@ -6,6 +6,11 @@
     color: white;
 }
 
+.navbar-brand{
+    margin-top:15px;
+    margin-bottom:15px;
+}
+
 .dropdown-menu.bg-shrimp{
     border:none;
 }
