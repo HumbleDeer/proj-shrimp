@@ -1,0 +1,18 @@
+.bg-shrimp{
+    background-color: #742D27; 
+}
+
+.navbar-dark .bi{
+    color: white;
+}
+
+.dropdown-menu.bg-shrimp{
+    border:none;
+}
+
+.dropdown-menu.bg-shrimp .dropdown-item:hover{
+    background-color: #993b33; 
+}
+.dropdown-menu.bg-shrimp .dropdown-item{
+    color:white;
+}
